@@ -1,0 +1,79 @@
+ATM System Rules and Regulations
+---------------------------------------------------------------------------------------------------------------------------------
+1. Language Selection
+Language Options: Upon starting the ATM session, users must choose their preferred language for interaction. Available options:
+
+1. Telugu
+
+2. English
+
+--------------------------------------------------------------------------------------------------------------------------------
+Once the language is selected, all further instructions and responses will be in the chosen language.
+
+2. User Authentication
+Login Reference: Users must choose how to log in to their account. Available options include:
+
+1. Name: Users can enter their full name to proceed.
+
+2. Mobile Number: Users can enter their registered mobile number for authentication.
+ 
+--------------------------------------------------------------------------------------------------------------------------------
+Pin Verification: After entering the login reference (name or mobile number), users must enter their PIN for security purposes. Incorrect PIN attempts will lock access temporarily to prevent unauthorized use.
+
+3. Transaction Menu
+Once logged in and authenticated, the user will be presented with the following options:
+
+1. Balance Enquiry: Users can check their current account balance.
+
+2. Withdraw Amount: Users can withdraw cash from their account, subject to available funds and withdrawal limits.
+
+3. Deposit Amount: Users can deposit funds into their account.
+
+4. Close Account: Option to close the ATM session and exit the system.
+
+5. Exit: End the session.
+
+4. Transaction Details
+-------------------------------------------------------------------------------------------------------------------------------
+Balance Enquiry:
+
+After selecting the balance enquiry option, the system will display the user’s available balance.
+
+A printed slip will be offered to the user for reference. The user can choose to print the balance slip by selecting 'y' for yes or 'n' for no.
+
+Printed slips will include the following details:
+
+ATM Branch Name
+
+Date and Time of Transaction
+
+User's Name
+
+User’s Contact Number
+
+Available Balance
+
+Thank you note
+--------------------------------------------------------------------------------------------------------------------------------
+5. Withdrawals and Deposits
+Withdrawal Limit: The ATM may have a daily withdrawal limit based on the user’s bank account settings. Users will be notified of any transaction restrictions.
+
+Deposits: Users are responsible for ensuring that the correct amount is deposited and that no physical damage occurs to the deposited funds.
+
+Transaction Confirmation: Users must confirm all withdrawals and deposits before the transaction is processed. If any issues arise, users are advised to follow the prompts on the screen or seek assistance from the bank's customer support.
+
+6. Closing the Session
+End of Session: Once users are done with their transactions, they may choose the "Exit" option to close the session.
+
+Automatic Logout: If the user does not make a selection for a prolonged period, the ATM will automatically log out and terminate the session for security purposes.
+
+7. Security and Privacy
+PIN Security: The user must keep their PIN confidential at all times. If a user enters an incorrect PIN multiple times, access to the ATM will be temporarily blocked.
+
+Session Timeout: Inactivity for a certain period will automatically log out the user to prevent unauthorized access.
+
+Confidentiality: All user data, including name, PIN, and transaction history, will be handled with the utmost confidentiality and in compliance with data protection regulations.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
